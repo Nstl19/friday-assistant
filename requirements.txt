@@ -1,0 +1,10 @@
+SpeechRecognition
+pyttsx3
+pyaudio
+requests
+pytz
+
+
+To install the above packages just run the command mentioned below:
+
+pip install -r requirements.txt
