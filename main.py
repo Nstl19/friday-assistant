@@ -45,7 +45,7 @@ def process_command(command):
         speak("Opening Facebook")
         webbrowser.open("https://facebook.com")
     elif "open instagram" in command:
-        speak("Opening Instagram")
+        speak("Opening in stag ram")
         webbrowser.open("https://instagram.com")
     elif "open profile" in command:
         speak("Opening your LinkedIn profile")
